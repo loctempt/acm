@@ -1,0 +1,423 @@
+# depslib dependency file v1.0
+1500864764 source:c:\users\admin\desktop\practice in summer\languages.cpp
+	<iostream>
+	<string>
+	<map>
+	<stdio.h>
+	<cctype>
+
+1500868000 source:c:\users\admin\desktop\practice in summer\surprising strings.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<string>
+
+1500881864 source:c:\users\admin\desktop\practice in summer\train problem i.cpp
+	<iostream>
+	<stack>
+	<string>
+	<cstring>
+
+1500887544 source:c:\users\admin\desktop\practice in summer\圆桌问题 .cpp
+	<iostream>
+	<cstring>
+
+1500944671 source:c:\users\admin\desktop\practice in summer\binary search\can you solve this equation？.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
+1500947455 source:c:\users\admin\desktop\practice in summer\binary search\can you find it？.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdio>
+
+1500950886 source:c:\users\admin\desktop\practice in summer\binary search\4 values whose sum is 0 .cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<map>
+
+1500963090 source:c:\users\admin\desktop\practice in summer\binary search\monthly expense .cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdio>
+
+1500968822 source:c:\users\admin\desktop\practice in summer\binary search\aggressive cows .cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+
+1500974587 source:c:\users\admin\desktop\practice in summer\binary search\river hopscotch.cpp
+	<iostream>
+	<algorithm>
+
+1501049961 source:c:\users\admin\desktop\practice in summer\contest 1\gourmet and banquet .cpp
+
+1501049963 source:c:\users\admin\desktop\practice in summer\contest 1\k best .cpp
+
+1501060004 source:c:\users\admin\desktop\practice in summer\contest 1\glass carving .cpp
+	<set>
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<vector>
+	<queue>
+
+1501117456 source:c:\users\admin\desktop\practice in summer\递推递归\爬楼梯.cpp
+	<iostream>
+
+1501118783 source:c:\users\admin\desktop\practice in summer\递推递归\一只小蜜蜂.cpp
+	<iostream>
+	<cstdio>
+
+1501119867 source:c:\users\admin\desktop\practice in summer\递推递归\不容易系列之(3)—— lele的rpg难题 .cpp
+	<iostream>
+	<cstdio>
+	<utility>
+
+1501125656 source:c:\users\admin\desktop\practice in summer\递推递归\汉诺塔iii .cpp
+	<iostream>
+	<cstdio>
+	<math.h>
+
+1501128835 source:c:\users\admin\desktop\practice in summer\递推递归\function run fun.cpp
+	<iostream>
+
+1501140972 source:c:\users\admin\desktop\practice in summer\递推递归\race .cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
+1501150300 source:c:\users\admin\desktop\practice in summer\递推递归\展开字符串.cpp
+	<iostream>
+	<cstdio>
+	<cctype>
+	<string>
+
+1501207336 source:c:\users\admin\desktop\practice in summer\dfs\n皇后问题.cpp
+
+1501209040 source:c:\users\admin\desktop\practice in summer\dfs\国庆出游 .cpp
+	<iostream>
+	<vector>
+
+1501214096 source:c:\users\admin\desktop\practice in summer\dfs\后序遍历 .cpp
+	<iostream>
+	<cstdio>
+	<string>
+
+1501227337 source:c:\users\admin\desktop\practice in summer\dfs\单源最大权路径 .cpp
+	<vector>
+	<iostream>
+	<cstdio>
+	<utility>
+	<map>
+	<cstring>
+	<algorithm>
+
+1501300066 source:c:\users\admin\desktop\practice in summer\dfs\the settlers of catan .cpp
+	<cstring>
+	<iostream>
+	<cstdio>
+	<vector>
+
+1501651948 source:c:\users\admin\desktop\practice in summer\contest2\a.cpp
+
+1501640277 source:c:\users\admin\desktop\practice in summer\contest2\b.cpp
+
+1501642746 source:c:\users\admin\desktop\practice in summer\contest2\c.cpp
+
+1501658631 source:c:\users\admin\desktop\practice in summer\contest2\d.cpp
+
+1501666695 source:c:\users\admin\desktop\practice in summer\contest2\e.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<map>
+	<cstring>
+
+1501491919 source:c:\users\admin\desktop\practice in summer\bfs\oil deposits.cpp
+
+1501464902 source:c:\users\admin\desktop\practice in summer\bfs\red and black.cpp
+
+1501468783 source:c:\users\admin\desktop\practice in summer\bfs\knight moves .cpp
+
+1501479712 source:c:\users\admin\desktop\practice in summer\bfs\h_strange chess of acm group's.cpp
+
+1501483139 source:c:\users\admin\desktop\practice in summer\bfs\the lazy guy's tour.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<queue>
+	<vector>
+
+1501486273 source:c:\users\admin\desktop\practice in summer\bfs\have you experienced despair？ twice！.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<queue>
+
+1501491115 source:c:\users\admin\desktop\practice in summer\bfs\have you experienced despair twice.cpp
+
+1501496834 source:c:\users\admin\desktop\practice in summer\bfs\mike and shortcuts .cpp
+
+1501501055 source:c:\users\admin\desktop\practice in summer\bfs\prime path .cpp
+
+1501507517 source:c:\users\admin\desktop\practice in summer\bfs\the labyrinth .cpp
+
+1501509447 source:c:\users\admin\desktop\practice in summer\bfs\rescue .cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<queue>
+
+1501549344 source:c:\users\admin\desktop\practice in summer\simulation and greedy\sad dorm moving.cpp
+
+1501551816 source:c:\users\admin\desktop\practice in summer\simulation and greedy\unimodal array.cpp
+
+1501566274 source:c:\users\admin\desktop\practice in summer\simulation and greedy\radar installation .cpp
+
+1501569517 source:c:\users\admin\desktop\practice in summer\simulation and greedy\five in a row.cpp
+
+1501570692 source:c:\users\admin\desktop\practice in summer\simulation and greedy\parencodings .cpp
+
+1501725674 source:c:\users\admin\desktop\practice in summer\dynamic programming\common subsequence .cpp
+
+1501727905 source:c:\users\admin\desktop\practice in summer\dynamic programming\longest ordered subsequence .cpp
+
+1501731078 source:c:\users\admin\desktop\practice in summer\dynamic programming\puzzles .cpp
+
+1501740807 source:c:\users\admin\desktop\practice in summer\dynamic programming\boredom .cpp
+
+1501743799 source:c:\users\admin\desktop\practice in summer\dynamic programming\longest regular bracket sequence .cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<string>
+
+1501809887 source:c:\users\admin\desktop\practice in summer\interval dp\stone merging.cpp
+
+1501815776 source:c:\users\admin\desktop\practice in summer\interval dp\brackets .cpp
+
+1501825144 source:c:\users\admin\desktop\practice in summer\interval dp\multiplication puzzle .cpp
+
+1501831086 source:c:\users\admin\desktop\practice in summer\interval dp\halloween costumes .cpp
+
+1501834396 source:c:\users\admin\desktop\practice in summer\interval dp\running.cpp
+
+1501839009 source:c:\users\admin\desktop\practice in summer\interval dp\you are the one .cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
+
+1501913496 source:c:\users\admin\desktop\practice in summer\contest3\a.cpp
+
+1501916419 source:c:\users\admin\desktop\practice in summer\contest3\c.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\contest3\d.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\contest3\e.cpp
+
+1501922375 source:c:\users\admin\desktop\practice in summer\contest3\b.cpp
+
+1502099103 source:c:\users\admin\desktop\practice in summer\union find and hash\crazy search.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
+
+1502086337 source:c:\users\admin\desktop\practice in summer\union find and hash\equations.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\union find and hash\farm irrigation.cpp
+
+1502075762 source:c:\users\admin\desktop\practice in summer\union find and hash\flying to the mars.cpp
+
+1502096662 source:c:\users\admin\desktop\practice in summer\union find and hash\food chain.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\union find and hash\how many tables.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\union find and hash\squares.cpp
+
+1502091293 source:c:\users\admin\desktop\practice in summer\union find and hash\the suspects.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\union find and hash\trouble.cpp
+
+1502072059 source:c:\users\admin\desktop\practice in summer\union find and hash\virtual friends.cpp
+
+1502156247 source:c:\users\admin\desktop\practice in summer\kmp\get familiar with string.cpp
+
+1502161611 source:c:\users\admin\desktop\practice in summer\kmp\matching.cpp
+
+1502174201 source:c:\users\admin\desktop\practice in summer\kmp\period.cpp
+
+1502173001 source:c:\users\admin\desktop\practice in summer\kmp\matching words.cpp
+
+1502175488 source:c:\users\admin\desktop\practice in summer\kmp\looping.cpp
+
+1502179295 source:c:\users\admin\desktop\practice in summer\kmp\prefix and suffix.cpp
+
+1502185114 source:c:\users\admin\desktop\practice in summer\kmp\another meaning.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
+
+1502184078 source:c:\users\admin\desktop\practice in summer\kmp\from hihocoder.cpp
+
+1502258176 source:c:\users\admin\desktop\practice in summer\contest4\a.cpp
+
+1502283705 source:c:\users\admin\desktop\practice in summer\contest4\b.cpp
+	<cstdio>
+	<queue>
+	<cstring>
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<vector>
+	<map>
+	<string>
+	<set>
+	<ctime>
+	<cmath>
+	<cctype>
+
+1502245746 source:c:\users\admin\desktop\practice in summer\contest4\c.cpp
+
+1502269590 source:c:\users\admin\desktop\practice in summer\contest4\d.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+
+1502245747 source:c:\users\admin\desktop\practice in summer\contest4\e.cpp
+
+1502268488 source:c:\users\admin\desktop\practice in summer\contest4\f.cpp
+
+1502335510 source:c:\users\admin\desktop\practice in summer\minimum spanning tree\highways .cpp
+
+1502343842 source:c:\users\admin\desktop\practice in summer\minimum spanning tree\ice_cream world.cpp
+
+1502346219 source:c:\users\admin\desktop\practice in summer\minimum spanning tree\jungle roads .cpp
+
+1502351958 source:c:\users\admin\desktop\practice in summer\minimum spanning tree\tree.cpp
+
+1502353569 source:c:\users\admin\desktop\practice in summer\minimum spanning tree\slim span.cpp
+
+1502356897 source:c:\users\admin\desktop\practice in summer\minimum spanning tree\building a space station.cpp
+
+1502358044 source:c:\users\admin\desktop\practice in summer\minimum spanning tree\arctic network .cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
+
+1502432617 source:c:\users\admin\desktop\practice in summer\shortest path\b.cpp
+
+1502432627 source:c:\users\admin\desktop\practice in summer\shortest path\c.cpp
+
+1502441228 source:c:\users\admin\desktop\practice in summer\shortest path\d.cpp
+	<cstdio>
+	<queue>
+	<cstring>
+
+1501807343 source:c:\users\admin\desktop\practice in summer\shortest path\e.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\shortest path\f.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\shortest path\g.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\shortest path\h.cpp
+
+1502432617 source:c:\users\admin\desktop\practice in summer\shortest path\a.cpp
+
+1502517168 source:c:\users\admin\desktop\practice in summer\monthly_august\a.cpp
+
+1502517169 source:c:\users\admin\desktop\practice in summer\monthly_august\b.cpp
+
+1502519977 source:c:\users\admin\desktop\practice in summer\monthly_august\c.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\monthly_august\d.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\monthly_august\e.cpp
+
+1502525295 source:c:\users\admin\desktop\practice in summer\monthly_august\f.cpp
+
+1502524229 source:c:\users\admin\desktop\practice in summer\monthly_august\g.cpp
+
+1502527129 source:c:\users\admin\desktop\practice in summer\monthly_august\p1017.cpp
+
+1502528516 source:c:\users\admin\desktop\practice in summer\monthly_august\p1067.cpp
+
+1502530512 source:c:\users\admin\desktop\practice in summer\monthly_august\p1540.cpp
+
+1502530753 source:c:\users\admin\desktop\practice in summer\monthly_august\p1008.cpp
+	<iostream>
+
+1502674488 source:c:\users\admin\desktop\practice in summer\binary index tree\trytry.cpp
+
+1502677135 source:c:\users\admin\desktop\practice in summer\binary index tree\c led experiment.cpp
+
+1502681100 source:c:\users\admin\desktop\practice in summer\binary index tree\a_ultra quick sort.cpp
+
+1502691282 source:c:\users\admin\desktop\practice in summer\binary index tree\b_stars .cpp
+
+1502693817 source:c:\users\admin\desktop\practice in summer\binary index tree\d_lines with a k smaller than 0.cpp
+
+1502698664 source:c:\users\admin\desktop\practice in summer\binary index tree\f_matrix sum .cpp
+
+1502701736 source:c:\users\admin\desktop\practice in summer\binary index tree\e_average number.cpp
+
+1502704066 source:c:\users\admin\desktop\practice in summer\binary index tree\g_kikis k_number.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
+
+1502786284 source:c:\users\admin\desktop\practice in summer\segment tree\a - i hate it .cpp
+
+1502781054 source:c:\users\admin\desktop\practice in summer\segment tree\c - enemy troops.cpp
+
+1502784114 source:c:\users\admin\desktop\practice in summer\segment tree\b - a simple problem with integers.cpp
+
+1502785846 source:c:\users\admin\desktop\practice in summer\segment tree\d - fast arrangement.cpp
+
+1502789342 source:c:\users\admin\desktop\practice in summer\segment tree\e - just a hook.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
+
+1502862987 source:c:\users\admin\desktop\practice in summer\contest5\b.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\contest5\c.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\contest5\d.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\contest5\e.cpp
+
+1502847724 source:c:\users\admin\desktop\practice in summer\contest5\f.cpp
+
+1501807343 source:c:\users\admin\desktop\practice in summer\contest5\g.cpp
+
+1502851447 source:c:\users\admin\desktop\practice in summer\contest5\a.cpp
+
