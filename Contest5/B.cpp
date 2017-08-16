@@ -15,11 +15,7 @@ void addFrn(int x, int d){
         frn[x] += d; x += x&-x;
     }
 }
-void addBeh(int x, int d){
-    while(x <= n){
-        beh[x] += d; x += x&-x;
-    }
-}
+
 int sumFrn(int x){
     int ret = 0;
     while(x > 0){
@@ -27,13 +23,7 @@ int sumFrn(int x){
     }
     return ret;
 }
-int sumBeh(int x){
-    int ret = 0;
-    while(x > 0){
-        ret += beh[x]; x -= x&-x;
-    }
-    return ret;
-}
+
 
 int main(){
 #ifdef TEST
