@@ -55,5 +55,6 @@ freopen("test.txt", "r", stdin);
         printf("%lld\n", ans);
     }
 
+
     return 0;
 }
