@@ -407,7 +407,13 @@
 	<cstring>
 	<queue>
 
-1502862987 source:c:\users\admin\desktop\practice in summer\contest5\b.cpp
+1502868596 source:c:\users\admin\desktop\practice in summer\contest5\b.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
 
 1501807343 source:c:\users\admin\desktop\practice in summer\contest5\c.cpp
 
@@ -419,5 +425,5 @@
 
 1501807343 source:c:\users\admin\desktop\practice in summer\contest5\g.cpp
 
-1502851447 source:c:\users\admin\desktop\practice in summer\contest5\a.cpp
+1502863715 source:c:\users\admin\desktop\practice in summer\contest5\a.cpp
 
