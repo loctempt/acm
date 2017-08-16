@@ -33,12 +33,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Contest5/A.cpp" />
-		<Unit filename="Contest5/B.cpp" />
 		<Unit filename="Contest5/C.cpp" />
 		<Unit filename="Contest5/D.cpp" />
 		<Unit filename="Contest5/E.cpp" />
-		<Unit filename="Contest5/F.cpp" />
 		<Unit filename="Contest5/G.cpp" />
 		<Extensions>
 			<code_completion />
