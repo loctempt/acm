@@ -6,7 +6,7 @@
 #include <queue>
 using namespace std;
 const int maxn = 1004;
-const double PCS = 1e-6;
+const double PCS = 1e-6;                        // 浮点误差不宜设置地太小，否则会错
 
 int m, n, row, col;
 bool flag = false, manySolutionFlag = false;
