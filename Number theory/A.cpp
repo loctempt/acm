@@ -5,53 +5,52 @@
 #include <cstring>
 #include <queue>
 using namespace std;
-const int maxn = 504;
-const double PCS = 1e-8;
+const int maxn = 1004;
+const double PCS = 1e-6;
 
-int m, n;
+int m, n, row, col;
 bool flag = false, manySolutionFlag = false;
-double mat[maxn << 1][maxn], b[maxn], value[maxn];
+double mat[maxn][maxn], b[maxn], value[maxn];
 
 void dbgDisplay() {
-    for(int i = 1; i <= m; i++) {
-        for(int j = 1; j <= n; j++)
+    for(int i = 1; i <= row; i++) {
+        for(int j = 1; j <= col; j++)
             printf("%8.4f ", mat[i][j]);
-        printf("%8.4f\n", b[i]);
+        printf("\n");
     }
     putchar('\n');
 }
 
 int gauss() {
-    for(int i = 1; i <= n; i++) {
+    for(int i = 1; i < col; i++) {
         int r = i;
-        for(int j = i + 1; j <= m; j++) {
+        for(int j = i + 1; j <= row; j++) {
             if(fabs(mat[j][i]) > fabs(mat[r][i]))
                 r = j;
         }
         if(r == i && fabs(mat[i][i]) < PCS)
             return -1;                          // multiple solutions.
         swap(mat[i], mat[r]);
-        for(int j = i + 1; j <= m; j++) {       // 变换为上三角阵
+        for(int j = i + 1; j <= row; j++) {       // 变换为上三角阵
             double c = mat[j][i] / mat[i][i];
-            for(int k = 1; k <= m; k++) {
+            for(int k = i; k <= col; k++) {
                 mat[j][k] -= mat[i][k] * c;
             }
-            b[j] -= b[i] * c;
         }
         dbgDisplay();
     }
-    for(int j = 1; j <= m; j++){
+    for(int j = 1; j <= row; j++){
         int pos = 1;
         while(pos <= n && fabs(mat[j][pos]) < PCS) pos++;
-        if(pos == n + 1 && fabs(b[j]) > PCS)
+        if(pos == col && fabs(mat[j][col]) > PCS)
             return 0;                           // no solution.
     }
-    for(int i = n; i >= 1; i--) {
+    for(int i = col - 1; i >= 1; i--) {
         for(int j = i + 1; j <= n; j++) {
-            b[i] -= mat[i][j] * value[j];
+            mat[i][col] -= mat[i][j] * value[j];
             mat[i][j] = 0;
         }
-        value[i] = b[i] / mat[i][i];
+        value[i] = mat[i][col] / mat[i][i];
     }
     return 1;         // normal status.
 }
@@ -62,11 +61,11 @@ int main() {
 #endif // TEST
 
     while(cin >> n >> m) {
+        row = m; col = n + 1;
         for(int i = 1; i <= m; i++) {
-            for(int j = 1; j <= n; j++) {
+            for(int j = 1; j <= n + 1; j++) {
                 scanf("%lf", &mat[i][j]);
             }
-            scanf("%lf", &b[i]);
         }
         int ans = gauss();
         if(ans == 0)
