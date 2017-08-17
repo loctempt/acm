@@ -31,13 +31,13 @@ int gauss() {
         if(r == i && fabs(mat[i][i]) < PCS)
             return -1;                          // multiple solutions.
         swap(mat[i], mat[r]);
-        for(int j = i + 1; j <= row; j++) {       // ±ä»»ÎªÉÏÈı½ÇÕó
+        for(int j = i + 1; j <= row; j++) {     // å˜æ¢ä¸ºä¸Šä¸‰è§’é˜µ
             double c = mat[j][i] / mat[i][i];
             for(int k = i; k <= col; k++) {
                 mat[j][k] -= mat[i][k] * c;
             }
         }
-        dbgDisplay();
+//        dbgDisplay();
     }
     for(int j = 1; j <= row; j++){
         int pos = 1;
