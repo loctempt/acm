@@ -1,5 +1,3 @@
-4
-abcdefgih
-abcdefghi
-abcdefgih
-ihgfedcba
+2
+1 2 5
+2 1 5
