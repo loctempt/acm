@@ -33,15 +33,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Combinational mathematics/A.cpp" />
-		<Unit filename="Combinational mathematics/B.cpp" />
-		<Unit filename="Combinational mathematics/C.cpp" />
-		<Unit filename="Combinational mathematics/E.cpp" />
-		<Unit filename="Combinational mathematics/G.cpp" />
-		<Unit filename="Combinational mathematics/I.cpp" />
-		<Unit filename="Combinational mathematics/K.cpp" />
-		<Unit filename="Provincial contest training/A.cpp" />
-		<Unit filename="Provincial contest training/B.cpp" />
+		<Unit filename="Number theory/E.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
