@@ -33,7 +33,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Number theory/E.cpp" />
+		<Unit filename="../Practice in summer_/LCA/Connections between cities .cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
