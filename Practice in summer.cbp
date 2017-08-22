@@ -33,7 +33,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+<<<<<<< HEAD
 		<Unit filename="../Practice in summer_/LCA/Connections between cities .cpp" />
+=======
+		<Unit filename="LCA/Connections between cities .cpp" />
+		<Unit filename="LCA/Distance Queries.cpp" />
+		<Unit filename="LCA/Housewife wind.cpp" />
+		<Unit filename="LCA/How Far Away.cpp" />
+>>>>>>> dabcd1243452c385d410c29f59038f241e3617ed
 		<Extensions>
 			<code_completion />
 			<envvars />
