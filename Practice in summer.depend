@@ -383,13 +383,7 @@
 
 1502701736 source:c:\users\admin\desktop\practice in summer\binary index tree\e_average number.cpp
 
-1502704066 source:c:\users\admin\desktop\practice in summer\binary index tree\g_kikis k_number.cpp
-	<iostream>
-	<cstdio>
-	<algorithm>
-	<vector>
-	<cstring>
-	<queue>
+1503103944 source:c:\users\admin\desktop\practice in summer\binary index tree\g_kikis k_number.cpp
 
 1502786284 source:c:\users\admin\desktop\practice in summer\segment tree\a - i hate it .cpp
 
@@ -472,4 +466,48 @@
 1503057478 source:c:\users\gt111\desktop\programming\practice in summer\provincial contest training\a.cpp
 
 1503060043 source:c:\users\gt111\desktop\programming\practice in summer\provincial contest training\b.cpp
+
+1503101130 source:c:\users\admin\desktop\practice in summer\contest6\1 - ¸±±¾ (6).cpp
+
+1503112154 source:c:\users\admin\desktop\practice in summer\contest6\b.cpp
+
+1503101130 source:c:\users\admin\desktop\practice in summer\contest6\c.cpp
+
+1503101130 source:c:\users\admin\desktop\practice in summer\contest6\d.cpp
+
+1503101130 source:c:\users\admin\desktop\practice in summer\contest6\e.cpp
+
+1503101130 source:c:\users\admin\desktop\practice in summer\contest6\f.cpp
+
+1503296307 source:c:\users\admin\desktop\practice in summer\lca\distance queries.cpp
+
+1503299745 source:c:\users\admin\desktop\practice in summer\lca\how far away.cpp
+
+1503302645 source:c:\users\admin\desktop\practice in summer\lca\housewife wind.cpp
+
+1503307537 source:c:\users\admin\desktop\practice in summer\lca\connections between cities .cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
+
+1503370394 source:c:\users\admin\desktop\practice in summer\bipartite graph\c - sam i am.cpp
+
+1503372250 source:c:\users\admin\desktop\practice in summer\bipartite graph\a - a game on chessboard.cpp
+
+1503394255 source:c:\users\admin\desktop\practice in summer\bipartite graph\b - machine schedule.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
+
+1503386332 source:c:\users\admin\desktop\practice in summer\bipartite graph\d - earn more money.cpp
+
+1503391651 source:c:\users\admin\desktop\practice in summer\bipartite graph\e - the accomodation of students.cpp
+
+1503394255 source:c:\users\admin\desktop\practice in summer\bipartite graph\g - joyful matrix.cpp
 
