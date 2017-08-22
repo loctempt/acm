@@ -467,9 +467,10 @@
 
 1503060043 source:c:\users\gt111\desktop\programming\practice in summer\provincial contest training\b.cpp
 
-<<<<<<< HEAD
+1503307537 D
+
 1503315067 source:c:\users\gt111\desktop\programming\practice in summer_\lca\connections between cities .cpp
-=======
+
 1503101130 source:c:\users\admin\desktop\practice in summer\contest6\1 - ¸±±¾ (6).cpp
 
 1503112154 source:c:\users\admin\desktop\practice in summer\contest6\b.cpp
@@ -489,7 +490,8 @@
 1503302645 source:c:\users\admin\desktop\practice in summer\lca\housewife wind.cpp
 
 1503307537 source:c:\users\admin\desktop\practice in summer\lca\connections between cities .cpp
->>>>>>> dabcd1243452c385d410c29f59038f241e3617ed
+
+1503394255 cd1243452c385d410c29f59038f241e3617ed
 	<iostream>
 	<cstdio>
 	<algorithm>
@@ -497,8 +499,6 @@
 	<cstring>
 	<queue>
 
-<<<<<<< HEAD
-=======
 1503370394 source:c:\users\admin\desktop\practice in summer\bipartite graph\c - sam i am.cpp
 
 1503372250 source:c:\users\admin\desktop\practice in summer\bipartite graph\a - a game on chessboard.cpp
@@ -517,4 +517,11 @@
 
 1503394255 source:c:\users\admin\desktop\practice in summer\bipartite graph\g - joyful matrix.cpp
 
->>>>>>> dabcd1243452c385d410c29f59038f241e3617ed
+1503405528 source:c:\users\gt111\desktop\programming\practice in summer\bipartite graph\f - taxi cab scheme.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cstring>
+	<queue>
+
