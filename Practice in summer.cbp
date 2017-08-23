@@ -33,12 +33,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Bipartite Graph/A - A game on chessboard.cpp" />
-		<Unit filename="Bipartite Graph/B - Machine Schedule.cpp" />
-		<Unit filename="Bipartite Graph/C - SAM I AM.cpp" />
-		<Unit filename="Bipartite Graph/D - Earn more money.cpp" />
-		<Unit filename="Bipartite Graph/E - The Accomodation of Students.cpp" />
-		<Unit filename="Bipartite Graph/G - Joyful matrix.cpp" />
+
+		<Unit filename="Bipartite Graph/F - Taxi Cab Scheme.cpp" />
+
 		<Extensions>
 			<code_completion />
 			<envvars />
