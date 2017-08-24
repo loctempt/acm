@@ -33,9 +33,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-
-		<Unit filename="Bipartite Graph/F - Taxi Cab Scheme.cpp" />
-
+		<Unit filename="AC automation/template.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
