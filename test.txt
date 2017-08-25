@@ -1,13 +1,6 @@
-1
-5
-abracadabra 2
-adbra 1
-bra 3
-abr 3
-br 2
-5
-2 3
-2 5
-1 2 5
-2 3
-2 2
+abcd
+4
+a
+b
+cd
+ab

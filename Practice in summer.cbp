@@ -34,6 +34,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="AC automation/A.cpp" />
+		<Unit filename="AC automation/B.cpp" />
 		<Unit filename="AC automation/C.cpp" />
 		<Unit filename="AC automation/D.cpp" />
 		<Unit filename="AC automation/E.cpp" />
