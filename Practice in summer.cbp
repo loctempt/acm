@@ -33,11 +33,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Network flows/A.cpp" />
-		<Unit filename="Network flows/B.cpp" />
-		<Unit filename="Network flows/C.cpp" />
-		<Unit filename="Network flows/D.cpp" />
-		<Unit filename="Network flows/E.cpp" />
+		<Unit filename="AC automation/template.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
