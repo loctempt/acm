@@ -33,7 +33,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="AC automation/template.cpp" />
+		<Unit filename="AC automation/A.cpp" />
+		<Unit filename="AC automation/C.cpp" />
+		<Unit filename="AC automation/D.cpp" />
+		<Unit filename="AC automation/E.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
