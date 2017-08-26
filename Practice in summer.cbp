@@ -33,11 +33,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="AC automation/A.cpp" />
-		<Unit filename="AC automation/B.cpp" />
-		<Unit filename="AC automation/C.cpp" />
-		<Unit filename="AC automation/D.cpp" />
-		<Unit filename="AC automation/E.cpp" />
+		<Unit filename="Contest8/A.cpp" />
+		<Unit filename="Contest8/B.cpp" />
+		<Unit filename="Contest8/C.cpp" />
+		<Unit filename="Contest8/D.cpp" />
+		<Unit filename="Contest8/E.cpp" />
+		<Unit filename="Contest8/F.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
