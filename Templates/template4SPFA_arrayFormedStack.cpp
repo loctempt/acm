@@ -1,3 +1,4 @@
+//SPFA数组栈实现
 int n, m, cnt;
 int u[maxn], v[maxn], w[maxn], first[maxn], Next[maxn], d[maxn], stak[maxn];
 bool vis[maxn];

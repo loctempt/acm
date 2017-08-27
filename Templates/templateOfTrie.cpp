@@ -1,3 +1,4 @@
+//字典树
 #include <cstdio>
 #include <iostream>
 #include <cstring>

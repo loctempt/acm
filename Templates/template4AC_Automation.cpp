@@ -1,3 +1,4 @@
+//AC自动机
 #include <cstdio>
 #include <iostream>
 #include <cstring>

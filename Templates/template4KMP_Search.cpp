@@ -1,3 +1,4 @@
+//KMP
 const int max1 = 1e4+4, max2 = 1e6+4;
 
 char W[max1], T[max2];

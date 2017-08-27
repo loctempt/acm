@@ -37,8 +37,6 @@
 		<Unit filename="Contest8/B.cpp" />
 		<Unit filename="Contest8/C.cpp" />
 		<Unit filename="Contest8/D.cpp" />
-		<Unit filename="Contest8/E.cpp" />
-		<Unit filename="Contest8/F.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

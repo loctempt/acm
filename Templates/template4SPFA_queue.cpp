@@ -1,3 +1,4 @@
+//SPFA队列实现
 struct node{
     int u, v, w;
 }e[maxn];
