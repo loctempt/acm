@@ -14,8 +14,6 @@ double calculate(double num1, char op, double num2) {
     }
 }
 
-
-
 int main() {
 #ifdef TEST
     freopen("test.txt", "r", stdin);
@@ -81,12 +79,6 @@ int main() {
                         op.push(temp);
                     }
                     else {
-//                        if(temptemp == '#' && temp != '('){
-//                                num.top() = -num.top();
-//                                op.pop();
-//                                op.push(temp);
-//                                continue;
-//                        }
                         op.pop();
                         double num1, num2;
                         num2 = num.top();
@@ -108,11 +100,6 @@ int main() {
             }
         }
         while(!op.empty()) {
-//            if(op.top() == '#'){
-//                num.top() = -num.top();
-//                op.pop();
-//                continue;
-//            }
             double num1, num2;
             num2 = num.top();
             num.pop();
