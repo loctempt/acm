@@ -37,7 +37,10 @@
 		<Unit filename="Contest8/B.cpp" />
 		<Unit filename="Contest8/C.cpp" />
 		<Unit filename="Contest8/D.cpp" />
+		<Unit filename="Others/Calculator.cpp" />
 		<Unit filename="Others/DP - UVA 11137 - Ingenuous Cubrency.cpp" />
+		<Unit filename="Others/Huffman.cpp" />
+		<Unit filename="Others/Shortest path.cpp" />
 		<Unit filename="Others/test.cpp" />
 		<Unit filename="Others/八皇后 带演示.cpp" />
 		<Unit filename="Provincial practice/A.cpp" />

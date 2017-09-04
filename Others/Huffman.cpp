@@ -28,33 +28,24 @@ struct Huffman{
                 mapping[sample[i]]++;
         }
         memset(huffmanTree, -1, sizeof(huffmanTree));
-        int d[maxn];
-        for(auto i = mapping.begin(); i != mapping.end(); i++){
-            d[pos++] = i->second;
-        }
-        sort(d, d+pos);
-        int len = unique(d, d+pos) - d;
-        pos = 0;
-        for(auto i = mapping.begin(); i != mapping.end(); i++){
-            huffmanTree[pos].target = i->first;
-            huffmanTree[pos++].weight = lower_bound(d, d+len, i->second) - d + 1;
+        for(auto it : mapping){
+            huffmanTree[pos].target = it.first;
+            huffmanTree[pos++].weight = it.second;
         }
     }
     void encode(){
         p = pos;
         pos--;
         while(pos < p*2-1-1){
-            int pos1, pos2, min1 = INF, min2 = INF;
+            int pos1 = -1, pos2 = -1, min1 = INF, min2 = INF;
             for(int i = 0; i <= pos; i++){
                 if(huffmanTree[i].father == -1 && huffmanTree[i].weight < min1){
+                    min2 = min1;
                     min1 = huffmanTree[i].weight;
+                    pos2 = pos1;
                     pos1 = i;
                 }
-            }
-            for(int i = 0; i <= pos; i++){
-                if(i == pos1)
-                    continue;
-                if(huffmanTree[i].father == -1 && huffmanTree[i].weight < min2){
+                else if(huffmanTree[i].father == -1 && huffmanTree[i].weight < min2){ // 特判是否存在一步找到min1的情况
                     min2 = huffmanTree[i].weight;
                     pos2 = i;
                 }
@@ -68,15 +59,16 @@ struct Huffman{
     void dfs(int pp){
         if(huffmanTree[pp].target != -1){
             cout << huffmanTree[pp].target << " : " << codeTable << endl;
-//            codeTable.erase(--codeTable.end());
         }
         else{
             codeTable += '1';
             dfs(huffmanTree[pp].lson);
-            codeTable.erase(--codeTable.end());
+            if(!codeTable.empty())
+                codeTable.erase(--codeTable.end());
             codeTable += '0';
             dfs(huffmanTree[pp].rson);
-            codeTable.erase(--codeTable.end());
+            if(!codeTable.empty())
+                codeTable.erase(--codeTable.end());
         }
     }
     void showCodeTable(){
